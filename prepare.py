@@ -6,11 +6,12 @@ import nltk
 from nltk.tokenize.toktok import ToktokTokenizer
 from nltk.corpus import stopwords
 
+
 import pandas as pd
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 nltk.download('wordnet')
-
+from sklearn.model_selection import train_test_split
 
 
 def basic_clean(text):
