@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 #NLP Project
-references/
 github_logo.jpg
 java_logo.jpg
 java_logo.png
