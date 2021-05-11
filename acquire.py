@@ -188,7 +188,6 @@ REPOS = [
  'Helloisa22/Naruto-CardHouver',
  'swirldev/translations',
  'Toluwase/Word-Level-Language-Identification-for-Resource-Scarce-',
- 'anushkrishnav/ALANG',
  'gasolin/lingascript',
  'Kaljurand/Grammars',
  'nanaian/english',
