@@ -46,7 +46,7 @@
     9. requests
 * Steps to recreate
     1. Clone this repository
-    3. Open `nlp_project_finale.ipynb` and run the cells
+    3. Open `nlp_project_final.ipynb` and run the cells
 
 
 ## Data Dictionary 
